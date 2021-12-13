@@ -1,6 +1,8 @@
 # Custom config
 #results/
 
+.vscode/
+
 # remove DS_Store
 **/.DS_Store
 
